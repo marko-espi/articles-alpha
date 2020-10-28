@@ -13,4 +13,4 @@ Components:
 
 * Database: postgresql 
 
-### Link of the site: (https://blog-articles-alpha.herokuapp.com/)[https://blog-articles-alpha.herokuapp.com/]
+### Link of the site: https://blog-articles-alpha.herokuapp.com/
